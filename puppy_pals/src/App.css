@@ -5,6 +5,12 @@
   text-align: center;
 }
 
+body {
+  background-image: url('./assets/pupper-pals.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
 .logo {
   height: 6em;
   padding: 1.5em;
